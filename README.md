@@ -10,17 +10,17 @@
 **My GitHub Projects**
 Here, you'll find a collection of projects and exercises that reflect my learning journey and expertise in data engineering. These projects range from basic data manipulations to complex data pipeline constructions, each serving as a stepping stone in my professional growth.
 
-**. Data Manipulation and Analysis:** Dive into my projects that showcase data manipulation, cleaning, and exploratory data analysis using Python and SQL.
-**. ETL Process Design:** Explore how I approach designing efficient ETL pipelines, focusing on data quality and performance.
-**. Cloud-based Data Engineering:** Check out my work on cloud data platforms like Azure, where I implement modern data warehousing and analytics solutions.
+**- Data Manipulation and Analysis:** Dive into my projects that showcase data manipulation, cleaning, and exploratory data analysis using Python and SQL.
+**- ETL Process Design:** Explore how I approach designing efficient ETL pipelines, focusing on data quality and performance.
+**- Cloud-based Data Engineering:** Check out my work on cloud data platforms like Azure, where I implement modern data warehousing and analytics solutions.
 
 **Learning & Development**
-. 🌟 I believe in the power of continuous learning and am currently exploring newer technologies and methodologies in data engineering, including Spark, HiveSQL, and Airflow.
-. 📘 Alongside practical projects, I also dedicate time to theoretical learning and staying updated with the latest trends and best practices in the field.
+- 🌟 I believe in the power of continuous learning and am currently exploring newer technologies and methodologies in data engineering, including Spark, HiveSQL, and Airflow.
+- 📘 Alongside practical projects, I also dedicate time to theoretical learning and staying updated with the latest trends and best practices in the field.
 
 **Collaboration & Networking**
-. 💬 I'm always eager to discuss data engineering concepts, project ideas, or any interesting challenges in the field.
-. 📫 Reach me at yamelperaza.work@gmail.com, ypera006@fiu.edu or connect with me on LinkedIn: https://www.linkedin.com/in/yamel-peraza-6a35b1a0
-. 📝 Check out my professional journey and detailed project descriptions on My Personal Blog/Portfolio.
+- 💬 I'm always eager to discuss data engineering concepts, project ideas, or any interesting challenges in the field.
+- 📫 Reach me at yamelperaza.work@gmail.com, ypera006@fiu.edu or connect with me on LinkedIn: https://www.linkedin.com/in/yamel-peraza-6a35b1a0
+- 📝 Check out my professional journey and detailed project descriptions on My Personal Blog/Portfolio.
 
 Thank you for visiting my repository. Let's connect and explore the endless possibilities in the world of data!
