@@ -20,7 +20,7 @@ Here, you'll find a collection of projects and exercises that reflect my learnin
 
 ## Collaboration & Networking
 - 💬 I'm always eager to discuss data engineering concepts, project ideas, or any interesting challenges in the field.  
-- 📫 Reach me at ypera006@fiu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/yamel-peraza-6a35b1a0).  
+- 📫 Reach me at yamelperaza.work@gmail.com, ypera006@fiu.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/yamel-peraza-6a35b1a0).  
 - 📝 Check out my professional journey and detailed project descriptions on [My Personal Blog/Portfolio](your-blog-or-portfolio-link).
 
 Thank you for visiting my repository. Let's connect and explore the endless possibilities in the world of data!
